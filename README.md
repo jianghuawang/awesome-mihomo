@@ -7,13 +7,12 @@ The following is list of currently activate
 
 ## Desktop Cross-platform Client
 1. [Mihomo Party](https://github.com/mihomo-party-org/mihomo-party)
-   1. 
 2. [Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev)
 3. [FlClash](https://github.com/chen08209/FlClash)
 4. [GUI for Clash](https://github.com/GUI-for-Cores/GUI.for.Clash)
 5. [clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu)
 6. [ShellCrash](https://github.com/juewuy/ShellCrash)
-   - NO GUI
+   - NO GUI support 
 
 
 ## Cross-platform Dashboard
